@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eacbb3ad4a1e594ebbe9b082e54f4e5, type: 3}
+  m_Name: ShaladPlanet
+  m_EditorClassIdentifier: 
+  id: 1
+  levelNumber: 1
+  levelName: ShaladPlanet
+  displayName: Shalad Planet
+  nextLevelData: {fileID: 11400000, guid: 396e1ad26bbdd1b41bfb1428f7e08456, type: 2}
+  levelType: 0
